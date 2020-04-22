@@ -2,7 +2,7 @@ package com.inwaiders.plames.modules.wallet.domain.wallet;
 
 import java.util.List;
 
-import com.inwaiders.plames.api.user.User;
+import enterprises.inwaiders.plames.api.user.User;
 
 public abstract class WalletHlRepository {
 

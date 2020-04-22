@@ -2,7 +2,7 @@ package com.inwaiders.plames.modules.wallet.domain.currency;
 
 import java.util.List;
 
-import com.inwaiders.plames.dao.HighLevelRepository;
+import enterprises.inwaiders.plames.dao.HighLevelRepository;
 
 public abstract class CurrencyHlRepository<T extends Currency> implements HighLevelRepository<T>{
 

@@ -2,9 +2,10 @@ package com.inwaiders.plames.modules.wallet.domain.wallet;
 
 import java.util.Collection;
 
-import com.inwaiders.plames.api.user.User;
 import com.inwaiders.plames.modules.wallet.domain.account.CurrencyAccount;
 import com.inwaiders.plames.modules.wallet.domain.currency.Currency;
+
+import enterprises.inwaiders.plames.api.user.User;
 
 public interface Wallet {
 
